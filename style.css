@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 100px;
+    background-color: black;
+    
+}
+.logo{
+    height: 80px;
+}
+main {
+    height: 100px;
+    background-color: rgba(255, 251, 0, 0.651);
+}
+footer {
+    height: 100px;
+    background-color: rgba(0, 255, 255, 0.308);
+}
