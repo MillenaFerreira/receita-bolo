@@ -7,7 +7,9 @@
 header {
     height: 100px;
     background-color: black;
-    
+    display: flex ;
+    justify-content: center;
+    align-items: center;
 }
 .logo{
     height: 80px;
@@ -18,5 +20,5 @@ main {
 }
 footer {
     height: 100px;
-    background-color: rgba(0, 255, 255, 0.308);
+    background-color: rgba(0, 255, 255, 0.322);
 }
